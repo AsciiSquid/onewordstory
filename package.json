@@ -1,0 +1,15 @@
+{
+  "name": "onewordstory",
+  "version": "1.0.0",
+  "description": "Compliles one-word stories for discord",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "AsciiSquid",
+  "license": "ISC",
+  "dependencies": {
+    "bufferutil": "^4.0.1",
+    "discord.js": "^11.5.1"
+  }
+}
