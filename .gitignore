@@ -4,7 +4,7 @@ logs
 # Node modules
 node_modules/
 # Settings file for the bot
-discord/bot_settings.json
+settings.json
 # Reader setting data
 data/*.json
 !data/default.json
