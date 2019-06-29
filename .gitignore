@@ -7,4 +7,3 @@ node_modules/
 settings.json
 # Reader setting data
 data/*.json
-!data/default.json
